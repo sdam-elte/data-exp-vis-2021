@@ -1,26 +1,25 @@
 # Course material for Data Exploration and Visualisation 
-### 2020 spring semester
+### 2021 spring semester
 
-This course is part of the [Scientific Data Analytics and Modelling Programme](http://datascience.elte.hu/en/Default.aspx#top).
-The aim of the course is that students gain practical skills to **access large databases/datasets**, to handle **data stored in different formats**, **to explore/distill these data** and **present/visualize** the gathered information. During the course students will come across databases of multiple disciples. Completing of the several projects allows students to gain experience on this field that will be a firm foundation for later courses on theoretical datamining and advanced computing laboratories.
-In this course we intend to introduce **state of the art tools and methods** for data exploration and visualization. This field evolves rapidly and a year later one might not use the same tool for the same task, but certain notions, languages and packages become the standard for a longer time.
+This course is part of the [Scientific Data Analytics and Modelling Programme](https://datascience.elte.hu/en/Default.aspx#top).
+The aim of the course is that students gain practical skills in **accessing large databases/datasets**, handling **data stored in different formats**, **exploring/cleaning these data** and **presenting** the gathered information. During the course students will come across databases used in various scientific fields. Completing of the several projects allows students to gain useful experiences that will give a firm foundation for later courses on theoretical datamining and advanced computing laboratories.
+In this course we intend to introduce **state of the art tools and methods** for data exploration and visualization. This field evolves rapidly and therefore the emphasis is not on the exact tool for solving a task, but the notions and algorithms. A library in a given programming language that we use today might become obsolete in a year or become the standard for a longer time.
 
 There is a useful tutorial into python http://bokae.web.elte.hu/numerical_methods.html), which gives a wide background knowledge, that comes handy.
 
 During the course every sample code will be shown in **jupyter notebooks**, which can be accessed on the [Kooplex Edu platform](https://kooplex-edu.elte.hu).
 
 Each occasion starts with an hour of introduction into the current topic with examples. After that everyone can work on the worksheets and the lecturers will be available to help with the any related problems and questions. 
-
   
 #### Course info
-Neptun code: 	**dsexplorf17vm** <br>
+Neptun code: 	**dsexplorf20vm** <br>
 Instructor: 	**Dávid Visontai**<br>
 Semester: 	spring <br>
 Type: 	Lecture + Practice <br>
 Credit points: 	4 <br>
 Prerequisites: 	programming in either **python**, **R** or **matlab** <br>
 
-The course is held in the **North Building** in computer lab **5.56** on **Wednesdays**  **14:00 - 16:30**.
+The course is held in the **North Building** in computer lab **5.56** on **TIMESLOT HERE**.
 
 
 ### The schedule of the course 
