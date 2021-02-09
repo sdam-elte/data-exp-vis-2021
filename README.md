@@ -13,7 +13,7 @@ Each occasion starts with approximately an hour of introduction into the current
   
 #### Course info
 Neptun code: 	**dsexplorf20vm** <br>
-Instructor: 	**Dávid Visontai**<br>
+Instructor: 	**[Dávid Visontai](http://benedek.web.elte.hu/)**<br>
 Semester: 	spring <br>
 Type: 	Lecture + Practice <br>
 Credit points: 	4 <br>
