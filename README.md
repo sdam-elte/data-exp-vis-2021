@@ -9,7 +9,7 @@ There is a useful tutorial into python http://bokae.web.elte.hu/numerical_method
 
 During the course every sample code will be shown in **jupyter notebooks**, which can be accessed on the [Kooplex Edu platform](https://kooplex-edu.elte.hu).
 
-Each occasion starts with an hour of introduction into the current topic with examples. After that everyone can work on the worksheets and the lecturers will be available to help with the any related problems and questions. 
+Each occasion starts with approximately an hour of introduction into the current topic with examples. After that everyone can work on the assignments and the lecturers will be available to help with the any related problems and questions. 
   
 #### Course info
 Neptun code: 	**dsexplorf20vm** <br>
@@ -17,24 +17,25 @@ Instructor: 	**Dávid Visontai**<br>
 Semester: 	spring <br>
 Type: 	Lecture + Practice <br>
 Credit points: 	4 <br>
-Prerequisites: 	programming in either **python**, **R** or **matlab** <br>
+Prerequisites: 	programming in either **python**, **R** (or **matlab**) <br>
 
-The course is held in the **North Building** in computer lab **5.56** on **TIMESLOT HERE**.
+The course is held in the **North Building** in computer lab **5.56** or online in Teams every **Wednesday between 10AM-12AM**.
+Attendance on the lectures is not compulsory and they will be recorded.
 
 
 ### The schedule of the course 
-1,  12.02.2020. **[Introduction to Kooplex Edu](https://kooplex-edu.elte.hu/hub)**, **[Jupyter Notebooks](https://jupyter.org/)** and  **[USGS water discharge statistics](Assignments/USGS-water)**<br>
-2,  19.02.2020. **[Maps, shapes, coordinates](Maps_shapes) and [Following John Snow](Assignments/John_Snow_pumps_and_deaths)** <br>
-3,  26.02.2020. **[SQL queries on an NBA database](Assignments/Basketball_League)** <br>
-4,  04.03.2020. **[Interactive Visualization](Interactive_Visualization)** <br>
-5,  11.03.2020. **[Hierarchical dataformats and standards, storing data](Dataformats)** <br>
-6,  18.03.2020. **** <br>
-7,  25.03.2020. **[REST services](REST-services)** <br>
-8,  01.04.2020. **[Network exploration](Assignments/Networks)** - This lecture will be given by [**Dániel Ábel**](http://maven7.com/hu/daniel-abel/), who is a developer at Maven7. <br>
-9, 15.04.2020. **[Data extraction from images](Assignments/Image_exploration)** <br>
-10, 22.04.2020. **[Natural Language Processing on tweets](Assignments/NLP_tweets)** - This lecture will be given by **Eszter Bokányi**, whose field of interest is how social phenomena can be captured by using various digital fingerprints of individuals. <br>
-11, 29.04.2020. **[3D Visualization](3D_Visualization)** <br>
-12, 05.05.2020. **[nCoV-2019](nCoV-2019)** <br>
+1,  10.02.2021. **[Introduction to Kooplex Edu](https://kooplex-edu.elte.hu/hub)**, **[Jupyter Notebooks](https://jupyter.org/)** and **reading data and datacleaning**<br>
+2,  17.02.2021. **Timeseries analysis** and [**USGS water discharge statistics](Lectures/Timeseries)**<br>
+3,  24.02.2021. **[Interactive Visualization](Interactive_Visualization)** <br>
+4,  03.03.2021. **[SQL queries on an NBA database](Assignments/Basketball_League)** <br>
+5,  10.03.2021. **[Maps, shapes, coordinates](Maps_shapes) and [Following John Snow](Assignments/John_Snow_pumps_and_deaths)** <br>**[Hierarchical dataformats and standards, storing data](Dataformats)** <br>
+6,  17.03.2021. **** <br>
+7,  24.03.2021. **[REST services](REST-services)** <br>
+8,  07.04.2021. **[Network exploration](Assignments/Networks)** - This lecture will be given by [**Dániel Ábel**](http://maven7.com/hu/daniel-abel/), who is a developer at Maven7. <br>
+9,  14.04.2021. **[Data extraction from images](Assignments/Image_exploration)** <br>
+10, 21.04.2021. **[Natural Language Processing on tweets](Assignments/NLP_tweets)** - This lecture will be given by **Eszter Bokányi**, whose field of interest is how social phenomena can be captured by using various digital fingerprints of individuals. <br>
+11, 28.04.2021. **Working with large datasets** <br>
+12, 05.05.2020. **** <br>
 13, 12.05.2020. **Consultation**
 
 ### Covered topics
@@ -65,9 +66,9 @@ The course is held in the **North Building** in computer lab **5.56** on **TIMES
 7. **[Data extraction from images](Assignments/Image_exploration)** - HTML
 8. **[Natural Language Processing on tweets](Assignments/NLP_tweets)** - HTML
 
-**HTML:** e.g. converted from a jupyter notebook<br>
-**Hosted App:** an application that is hosted by a server (plotly, bokeh etc.<br>
-**REST service/API:** instructions are on the worksheet<br>
+All assigments should be converted into HTML (or a hosted application)! 
+
+
 
 ### Where to work on the assignments?
 https://kooplex-edu.elte.hu/hub is where the notebooks will be handed out. It is available for all students with a valid **Neptun** or **caesar** account. Once you run your notebook server you will find a folder with the course material. The notebooks will be available in this Github repository as well.
@@ -83,8 +84,8 @@ The result should look like a **report**, which will be generated from the works
 
 ### Grading
 
-Each assignment will be corrected after submission and a maximum of 20 points will be given for it. 10 for all the completed tasks, 10 for the quality of the submitted report (look, clarity and comments). 
-The final grades will be given according to the following pointsystem:<br>
+Each assignment will be corrected after submission and a maximum of **20 points** will be given for it. **10** for all the **completed tasks**, **10** for the **quality** of the submitted report (look, clarity and comments). 
+The final grades will be given according to the following point system:<br>
 0 - 60: failed<br>
 61 - 79: 2<br>
 80 - 101: 3<br>
@@ -109,4 +110,7 @@ In the */home/course/Datasets* directory you will find datasets, that you can wo
 ### Simulation and data visualizations
 * https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 
+**HTML:** e.g. converted from a jupyter notebook<br>
+**Hosted App:** an application that is hosted by a server (plotly, bokeh etc.<br>
+**REST service:** An HTTP based service with resources that runs on a server, digests queries and executes predefined functions<br>
 
