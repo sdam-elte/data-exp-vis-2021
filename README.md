@@ -55,16 +55,16 @@ Attendance on the lectures is not compulsory and they will be recorded.
  * Interactive dataexplorative tools ([ipywidgets](https://ipywidgets.readthedocs.io/), [bokeh](https://bokeh.org/), [holoviews](http://holoviews.org/))
  * Developing open source softwares, reproducible research ([OSF](https://osf.io/))
 
-### Assignments and the expected output
+### Assignments, the expected output and the name of the consultant
 
-1. **[USGS water discharge statistics](Assignments/USGS-water)** - HTML
-2. **[Following John Snow](Assignments/John_Snow_pumps_and_deaths)** - HTML
-3. **[SQL queries on an NBA database](Assignments/Basketball_League)**- HTML
-4. **[Interactive Visualization](Assignments/Interactive_Visualization)** - HTML or Hosted App
-5. **[REST API](Assignments/REST_API)** - REST service/API
-6. **[Network exploration](Assignments/Networks)** - HTML
-7. **[Data extraction from images](Assignments/Image_exploration)** - HTML
-8. **[Natural Language Processing on tweets](Assignments/NLP_tweets)** - HTML
+1. **[USGS water discharge statistics](Assignments/USGS-water)** - HTML - Dávid Visontai
+2. **[Following John Snow](Assignments/John_Snow_pumps_and_deaths)** - HTML - Ágnes Becsei
+3. **[SQL queries on an NBA database](Assignments/Basketball_League)**- HTML - Dávid Visontai
+4. **[Interactive Visualization](Assignments/Interactive_Visualization)** - HTML or Hosted App - Krisztián Papp, Dávid Visontai
+5. **[REST API](Assignments/REST_API)** - REST service/API - Dávid Visontai
+6. **[Network exploration](Assignments/Networks)** - HTML - István Márkusz
+7. **[Data extraction from images](Assignments/Image_exploration)** - HTML - József Stéger
+8. **[Natural Language Processing on tweets](Assignments/NLP_tweets)** - HTML - Eszter Bokányi
 
 All assigments should be converted into HTML unless it is stated otherwise!
 
@@ -108,7 +108,10 @@ The final grades will be given according to the following point system:<br>
 ### Simulation and data visualizations
 * https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 
-**HTML:** e.g. converted from a jupyter notebook<br>
-**Hosted App:** an application that is hosted by a server (plotly, bokeh etc.<br>
-**REST service:** An HTTP based service with resources that runs on a server, digests queries and executes predefined functions<br>
+## List of tutors
+* Ágnes Becsei
+* Krisztián Papp
+* István Márkusz
+* József Stéger
+* Dávid Visontai
 
