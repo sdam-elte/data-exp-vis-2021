@@ -66,21 +66,15 @@ Attendance on the lectures is not compulsory and they will be recorded.
 7. **[Data extraction from images](Assignments/Image_exploration)** - HTML
 8. **[Natural Language Processing on tweets](Assignments/NLP_tweets)** - HTML
 
-All assigments should be converted into HTML (or a hosted application)! 
+All assigments should be converted into HTML unless it is stated otherwise!
 
+The submitted results should look like a **report**, which can be generated from the notebooks. This will be explained on the [lecture](1-createreport). All figures should have *labels*, *title*, each exercise should end with a descriptive *conclusion* and explanatory comments should be inserted into the code. These are **must have features** of a work that is intended for presentation.
 
 
 ### Where to work on the assignments?
 https://kooplex-edu.elte.hu/hub is where the notebooks will be handed out. It is available for all students with a valid **Neptun** or **caesar** account. Once you run your notebook server you will find a folder with the course material. The notebooks will be available in this Github repository as well.
 We will explain how to use this portal on the first lecture.
 The Kooplex Edu platform is accessible externally as well. In case there is any problem with the portal you can run a notebook server locally on any other computer and upload your work later.
-
-### Requirements
-There will be an assignment for each of the 9 topics, which need to be completed individually. The deadlines for the submissions are shown next to the topic and all related information will be in the topics' folder. These are not strict deadlines, however we advise students to keep them in order to be able to complete all tasks.
-
-The **minimum requirement** for this course is to submit all assignments with at least **one** completed task. In all worksheet or assignment the first couple of tasks follow the excercises explained in the given tutorial files.
-
-The result should look like a **report**, which will be generated from the worksheets as it will be explained on the [lecture](1-createreport). All figures should have *labels*, *title*, each exercise should end with a descriptive *conclusion* and the explanatory comments should be inserted into the code. These are **must have features** of a work that is intended for presentation.
 
 ### Grading
 
@@ -92,9 +86,11 @@ The final grades will be given according to the following point system:<br>
 102 - 124: 4<br>
 125 - : 5<br>
 
-### Example Datasets
+### Folder structure of the working environment
 
-In the */home/course/Datasets* directory you will find datasets, that you can work with.
+* Assignments will be visible in `/home/workdir`
+* Example Datasets will be in the `/home/course/Datasets` directory you will find datasets, that you can work with.
+* Other lecture materials will be in `/home/course/`
 
 ### Learning materials
 * Python tutorial: http://bokae.web.elte.hu/numerical_methods.html (translated from the BSc course "numerical methods in physics I" by Eszter Bokányi, work in progress )
