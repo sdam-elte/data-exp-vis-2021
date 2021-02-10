@@ -16,7 +16,7 @@ Neptun code: 	**dsexplorf20vm** <br>
 Instructor: 	**[Dávid Visontai](http://benedek.web.elte.hu/)**<br>
 Semester: 	spring <br>
 Type: 	Lecture + Practice <br>
-Credit points: 	4 <br>
+Credit points: 	6 <br>
 Prerequisites: 	programming in either **python**, **R** (or **matlab**) <br>
 
 The course is held in the **North Building** in computer lab **5.56** or online in Teams every **Wednesday between 10AM-12AM**.
