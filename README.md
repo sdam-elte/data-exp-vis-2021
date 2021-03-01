@@ -26,9 +26,9 @@ Attendance on the lectures is not compulsory and they will be recorded.
 ### The schedule of the course 
 1,  10.02.2021. **[Introduction to Kooplex Edu](https://kooplex-edu.elte.hu/hub)**, **[Jupyter Notebooks](https://jupyter.org/)**, **Requirements for the course**<br>
 2,  17.02.2021. **[Timeseries analysis](Lectures/L-02-Timeseries/02-Timeseries.pdf)** and **[USGS water discharge statistics](Assignments/A-02-Timeseries/)**<br>
-3,  24.02.2021. **Reading data, cleaning, filtering etc.** <br>
+3,  24.02.2021. **[Maps, shapes, coordinates](Lectures/L-05-Shapes-Maps-Coordinates)** <br>
 4,  03.03.2021. **[Interactive Visualization](Interactive_Visualization)** <br>
-5,  10.03.2021. **[Maps, shapes, coordinates](Maps_shapes) and [Following John Snow](Assignments/John_Snow_pumps_and_deaths)** <br>
+5,  10.03.2021.  <br>
 6,  17.03.2021. **[SQL queries on an NBA database](Assignments/Basketball_League)** <br>
 7,  24.03.2021. **[REST services](REST-services)** <br>
 8,  07.04.2021. **[Network exploration](Assignments/Networks)** - This lecture will be given by [**Dániel Ábel**](http://maven7.com/hu/daniel-abel/), who is a developer at Maven7. <br>
@@ -36,7 +36,7 @@ Attendance on the lectures is not compulsory and they will be recorded.
 10, 21.04.2021. **[Natural Language Processing on tweets](Assignments/NLP_tweets)** - This lecture will be given by **Eszter Bokányi**, whose field of interest is how social phenomena can be captured by using various digital fingerprints of individuals. <br>
 11, 28.04.2021. **Working with large datasets** <br>
 12, 05.05.2020. **[Hierarchical dataformats and standards, storing data in files and databases](Dataformats)** <br>
-13, 12.05.2020. **Consultation**
+13, 12.05.2020. **Reading data, cleaning, filtering etc.**
 
 ### Covered topics
 
@@ -57,8 +57,8 @@ Attendance on the lectures is not compulsory and they will be recorded.
 
 ### Assignments, the expected output and the name of the consultant
 
-1. **[USGS water discharge statistics](Assignments/USGS-water)** - HTML 
-2. **[Following John Snow](Assignments/John_Snow_pumps_and_deaths)** - HTML 
+1. **[Following John Snow](Assignments/A-01-Shapes-Maps-Coordinates)** - HTML 
+2. **[USGS water discharge statistics](Assignments/A-02-Timeseries)** - HTML 
 3. **[SQL queries on an NBA database](Assignments/Basketball_League)**- HTML 
 4. **[Interactive Visualization](Assignments/Interactive_Visualization)** - HTML or Hosted App 
 5. **[REST API](Assignments/REST_API)** - REST service/API 
@@ -70,8 +70,8 @@ All assigments should be converted into HTML unless it is stated otherwise!
 
 The submitted results should look like a **report**, which can be generated from the notebooks. This will be explained on the [lecture](1-createreport). All figures should have *labels*, *title*, each exercise should end with a descriptive *conclusion* and explanatory comments should be inserted into the code. These are **must have features** of a work that is intended for presentation.
 
-### (Final) Submission deadline
 <span id="deadline"></span>
+### (Final) Submission deadline
 The assignments/projects will be released in the first couple of weeks, which you have to submit after the end of the course **16th June 1PM (this is the last deadline)**. Each submitted assignment will be corrected and a feedback will be given. After that you may resubmit your assignment **once more** but before the final deadline.
 
 
