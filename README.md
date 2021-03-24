@@ -30,13 +30,13 @@ Attendance on the lectures is not compulsory and they will be recorded.
 4,  03.03.2021. **[Interactive Visualization](Interactive_Visualization)** <br>
 5,  10.03.2021. **[REST services](REST-services)**  <br>
 6,  17.03.2021. **[SQL queries on an NBA database](Assignments/Basketball_League)** <br>
-7,  24.03.2021. **Visualizing non-scalar data; 3D data**<br>
+7,  24.03.2021. **Datacleaning, and filtering**<br>
 8,  07.04.2021. **[Network exploration](Assignments/Networks)** - This lecture will be given by [**Dániel Ábel**](http://maven7.com/hu/daniel-abel/), who is a developer at Maven7. <br>
 9,  14.04.2021. **[Data extraction from images](Assignments/Image_exploration)** <br>
 10, 21.04.2021. **[Natural Language Processing on tweets](Assignments/NLP_tweets)** - This lecture will be given by **Eszter Bokányi**, whose field of interest is how social phenomena can be captured by using various digital fingerprints of individuals. <br>
 11, 28.04.2021. **Working with large datasets** <br>
 12, 05.05.2020. **[Hierarchical dataformats and standards, storing data in files and databases](Dataformats)** <br>
-13, 12.05.2020. **Reading data, cleaning, filtering etc.**
+13, 12.05.2020. **Visualizing non-scalar data; 3D data**
 
 ### Covered topics
 
