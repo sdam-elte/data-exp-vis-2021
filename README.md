@@ -61,7 +61,7 @@ Attendance on the lectures is not compulsory and they will be recorded.
 2. **[USGS water discharge statistics](Assignments/A-02-Timeseries)** - HTML 
 3. **[SQL queries on an NBA database](Assignments/Basketball_League)**- HTML 
 4. **[Interactive Visualization](Assignments/Interactive_Visualization)** - HTML or Hosted App 
-5. **[REST API](Assignments/REST_API)** - REST service/API 
+5. **[REST API](Assignments/REST_API)** - (REST service/API) a notebook or a python script
 6. **[Network exploration](Assignments/Networks)** - HTML 
 7. **[Data extraction from images](Assignments/Image_exploration)** - HTML 
 8. **[Natural Language Processing on tweets](Assignments/NLP_tweets)** - HTML 
