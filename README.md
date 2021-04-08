@@ -25,18 +25,18 @@ Attendance on the lectures is not compulsory and they will be recorded.
 
 ### The schedule of the course 
 1,  10.02.2021. **[Introduction to Kooplex Edu](https://kooplex-edu.elte.hu/hub)**, **[Jupyter Notebooks](https://jupyter.org/)**, **Requirements for the course**<br>
-2,  17.02.2021. **[Timeseries analysis](Lectures/L-02-Timeseries/02-Timeseries.pdf)** and **[USGS water discharge statistics](Assignments/A-02-Timeseries/)**<br>
-3,  24.02.2021. **[Maps, shapes, coordinates](Lectures/L-05-Shapes-Maps-Coordinates)** <br>
-4,  03.03.2021. **[Interactive Visualization](Interactive_Visualization)** <br>
-5,  10.03.2021. **[REST services](REST-services)**  <br>
-6,  17.03.2021. **[SQL queries on an NBA database](Assignments/Basketball_League)** <br>
-7,  24.03.2021. **Datacleaning, and filtering**<br>
-8,  07.04.2021. **[Network exploration](Assignments/Networks)** - This lecture will be given by [**Dániel Ábel**](http://maven7.com/hu/daniel-abel/), who is a developer at Maven7. <br>
-9,  14.04.2021. **[Data extraction from images](Assignments/Image_exploration)** <br>
-10, 21.04.2021. **[Natural Language Processing on tweets](Assignments/NLP_tweets)** - This lecture will be given by **Eszter Bokányi**, whose field of interest is how social phenomena can be captured by using various digital fingerprints of individuals. <br>
-11, 28.04.2021. **Working with large datasets** <br>
-12, 05.05.2020. **[Hierarchical dataformats and standards, storing data in files and databases](Dataformats)** <br>
-13, 12.05.2020. **Visualizing non-scalar data; 3D data**
+2,  17.02.2021. **[Timeseries analysis](Lectures/L-Timeseries/02-Timeseries.pdf)** and **[USGS water discharge statistics](Assignments/A-02-Timeseries/)**<br>
+3,  24.02.2021. **[Maps, shapes, coordinates](Lectures/L-Shapes-Maps-Coordinates)** <br>
+4,  03.03.2021. **[Interactive Visualization](Lectures/L-Interactive_Visualization)** <br>
+5,  10.03.2021. **[REST services](Lectures/HTTP-REST-API)**  <br>
+6,  17.03.2021. **[SQL queries](Lectures/L-SQL)** <br>
+7,  24.03.2021. **[Datacleaning, and filtering](Lectures/Datacleaning-filtering)**<br>
+8,  07.04.2021. **[Network exploration](LecturesL-/Networks)** - This lecture will be given by [**Dániel Ábel**](http://maven7.com/hu/daniel-abel/), who is a developer at Maven7. <br>
+9,  14.04.2021. **[Image exploration](Lectures/L-Image_exploration)** <br>
+10, 21.04.2021. **[Natural Language Processing on tweets](Lectures/L-NLP)** - This lecture will be given by **Eszter Bokányi**, whose field of interest is how social phenomena can be captured by using various digital fingerprints of individuals. <br>
+11, 28.04.2021. **[Working with large datasets](Lectures/L-LargeData)** <br>
+12, 05.05.2020. **[TBA](Lectures/L-TBA)** <br>
+13, 12.05.2020. **[Visualizing non-scalar data; 3D data](L-3D)**
 
 ### Covered topics
 
@@ -57,14 +57,14 @@ Attendance on the lectures is not compulsory and they will be recorded.
 
 ### Assignments, the expected output and the name of the consultant
 
-1. **[Following John Snow](Assignments/A-01-Shapes-Maps-Coordinates)** - HTML 
-2. **[USGS water discharge statistics](Assignments/A-02-Timeseries)** - HTML 
-3. **[SQL queries on an NBA database](Assignments/Basketball_League)**- HTML 
-4. **[Interactive Visualization](Assignments/Interactive_Visualization)** - HTML or Hosted App 
-5. **[REST API](Assignments/REST_API)** - (REST service/API) a notebook or a python script
-6. **[Network exploration](Assignments/Networks)** - HTML 
-7. **[Data extraction from images](Assignments/Image_exploration)** - HTML 
-8. **[Natural Language Processing on tweets](Assignments/NLP_tweets)** - HTML 
+1. **[Following John Snow](Assignments/A-Shapes-Maps-Coordinates)** - HTML 
+2. **[USGS water discharge statistics](Assignments/A-Timeseries)** - HTML 
+3. **[SQL queries on an NBA database](Assignments/A-SQL-Basketball)**- HTML 
+4. **[Interactive Visualization](Assignments/A-InteractiveVisualizations)** - HTML or Hosted App 
+5. **[REST API](Assignments/A-HTTP-REST-API)** - (REST service/API) a notebook or a python script
+6. **[Network exploration](Assignments/A-Networks)** - HTML 
+7. **[Data extraction from images](Assignments/A-Image_exploration)** - HTML 
+8. **[Natural Language Processing on tweets](Assignments/A-NLP)** - HTML 
 
 All assigments should be converted into HTML unless it is stated otherwise!
 
