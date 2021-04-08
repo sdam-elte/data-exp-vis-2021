@@ -25,7 +25,7 @@ Attendance on the lectures is not compulsory and they will be recorded.
 
 ### The schedule of the course 
 1,  10.02.2021. **[Introduction to Kooplex Edu](https://kooplex-edu.elte.hu/hub)**, **[Jupyter Notebooks](https://jupyter.org/)**, **Requirements for the course**<br>
-2,  17.02.2021. **[Timeseries analysis](Lectures/L-Timeseries/02-Timeseries.pdf)** and **[USGS water discharge statistics](Assignments/A-02-Timeseries/)**<br>
+2,  17.02.2021. **[Timeseries analysis](Lectures/L-Timeseries/02-Timeseries.pdf)** and **[USGS water discharge statistics](Assignments/A-Timeseries)**<br>
 3,  24.02.2021. **[Maps, shapes, coordinates](Lectures/L-Shapes-Maps-Coordinates)** <br>
 4,  03.03.2021. **[Interactive Visualization](Lectures/L-Interactive_Visualization)** <br>
 5,  10.03.2021. **[REST services](Lectures/HTTP-REST-API)**  <br>
