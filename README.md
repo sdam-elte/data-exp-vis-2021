@@ -64,7 +64,7 @@ Attendance on the lectures is not compulsory and they will be recorded.
 5. **[REST API](Assignments/A-HTTP-REST-API)** - (REST service/API) a notebook or a python script
 6. **[Network exploration](Assignments/A-Networks)** - HTML 
 7. **[Data extraction from images](Assignments/A-Image_exploration)** - HTML 
-8. **[Natural Language Processing on tweets](Assignments/A-NLP)** - HTML 
+8. **[Natural Language Processing on tweets](Assignments/A-NLP)** - HTML - !!! Ex 7. and 8. is optional.
 
 All assigments should be converted into HTML unless it is stated otherwise!
 
