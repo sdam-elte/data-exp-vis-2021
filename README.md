@@ -35,7 +35,7 @@ Attendance on the lectures is not compulsory and they will be recorded.
 9,  14.04.2021. **[Image exploration](Lectures/L-Image_Exploration)** <br>
 10, 21.04.2021. **[Natural Language Processing on tweets](Lectures/L-NLP)** - This lecture will be given by **Eszter Bokányi**, whose field of interest is how social phenomena can be captured by using various digital fingerprints of individuals. <br>
 11, 28.04.2021. **[Working with large datasets](Lectures/L-LargeData)** <br>
-12, 05.05.2020. **[TBA](Lectures/L-TBA)** <br>
+12, 05.05.2020. **[NoSQL - Elasticsearch and Kibana](Lectures/L-NoSQL-ES)** <br>
 13, 12.05.2020. **[Visualizing non-scalar data; 3D data](L-3D)**
 
 ### Covered topics
