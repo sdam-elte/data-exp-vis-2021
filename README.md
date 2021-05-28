@@ -55,16 +55,16 @@ Attendance on the lectures is not compulsory and they will be recorded.
  * Interactive dataexplorative tools ([ipywidgets](https://ipywidgets.readthedocs.io/), [bokeh](https://bokeh.org/), [holoviews](http://holoviews.org/))
  * Developing open source softwares, reproducible research ([OSF](https://osf.io/))
 
-### Assignments, the expected output and the name of the consultant
+### Assignments, the expected output and the name of the corrector
 
-1. **[Following John Snow](Assignments/A-Shapes-Maps-Coordinates)** - HTML 
-2. **[USGS water discharge statistics](Assignments/A-Timeseries)** - HTML 
-3. **[SQL queries on an NBA database](Assignments/A-SQL-Basketball)**- HTML 
-4. **[Interactive Visualization](Assignments/A-InteractiveVisualizations)** - HTML or Hosted App 
-5. **[REST API](Assignments/A-HTTP-REST-API)** - (REST service/API) a notebook or a python script
-6. **[Network exploration](Assignments/A-Networks)** - HTML 
-7. **[Data extraction from images](Assignments/A-Image_exploration)** - HTML 
-8. **[Natural Language Processing on tweets](Assignments/A-NLP)** - HTML - !!! Ex 7. and 8. is optional.
+1. **[Following John Snow](Assignments/A-Shapes-Maps-Coordinates)** - HTML - Ágnes Becsei
+2. **[USGS water discharge statistics](Assignments/A-Timeseries)** - HTML - Dávid Visontai
+3. **[SQL queries on an NBA database](Assignments/A-SQL-Basketball)**- HTML - Dávid Visontai
+4. **[Interactive Visualization](Assignments/A-InteractiveVisualizations)** - HTML or Hosted App - Krisztián Papp
+5. **[REST API](Assignments/A-HTTP-REST-API)** - (REST service/API) a notebook or a python script - Dávid Visontai
+6. **[Network exploration](Assignments/A-Networks)** - HTML - István Márkusz
+7. **[Data extraction from images](Assignments/A-Image_exploration)** - HTML - József Stéger
+8. **[Natural Language Processing on tweets](Assignments/A-NLP)** - HTML - !!! Ex 7. and 8. is optional. - Eszter Bokányi
 
 All assigments should be converted into HTML unless it is stated otherwise!
 
