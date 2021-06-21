@@ -84,11 +84,11 @@ The Kooplex Edu platform is accessible externally as well. In case there is any 
 
 Each assignment will be corrected after submission and a maximum of **20 points** will be given for it. **10** for all the **completed tasks**, **10** for the **quality** of the submitted report (look, clarity and comments). 
 The final grades will be given according to the following point system:<br>
-0 - 60: failed<br>
-61 - 79: 2<br>
-80 - 101: 3<br>
-102 - 124: 4<br>
-125 - : 5<br>
+0 - 50: failed<br>
+51 - 70: 2<br>
+71 - 94: 3<br>
+95 - 115: 4<br>
+116••••••••• - : 5<br>
 
 ### Folder structure of the working environment
 
