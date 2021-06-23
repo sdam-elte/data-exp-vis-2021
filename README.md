@@ -88,7 +88,7 @@ The final grades will be given according to the following point system:<br>
 51 - 70: 2<br>
 71 - 94: 3<br>
 95 - 115: 4<br>
-116••••••••• - : 5<br>
+116 - : 5<br>
 
 ### Folder structure of the working environment
 
